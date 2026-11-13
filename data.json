@@ -1,9 +1,16 @@
 {
   "config": {
-    "namaKamu": "Nama Kamu",
-    "namaPacar": "Nama Dia",
-    "mulaiPacaran": "2024-02-14",
+    "namaKamu": "faris",
+    "namaPacar": "zakiyah",
+    "mulaiPacaran": "2026-11-05",
     "pesanFooter": "Terima kasih sudah jadi bagian dari cerita ini."
   },
-  "photos": []
+  "photos": [
+    {
+      "file": "foto/1794548405702-0.jpg",
+      "caption": "my bini gwehhhh",
+      "tanggal": "2026-11-10",
+      "album": "zakiyahh"
+    }
+  ]
 }
